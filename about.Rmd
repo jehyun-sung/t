@@ -1,0 +1,12 @@
+# Author
+- Name: Jehyun Sung
+- Email: jehyuns2@illinois.edu
+
+# Purpose
+This application is designed to analyze weather data from various locations. Users can select a location and a date range to visualize and summarize weather metrics.
+
+# Data
+The data used in this application is sourced from the Open-Meteo dataset. It includes weather metrics such as temperature, humidity, and wind speed for various locations.
+
+# References
+- Open-Meteo: https://open-meteo.com
